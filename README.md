@@ -625,6 +625,7 @@ Want to build a lang pack? Start with the [language template](https://github.com
 * 🎙 **[LiveTranslate](https://github.com/TheDeathDragon/LiveTranslate/blob/main/i18n/CHANGELOG_en.md#2026-08-17):** Real-time audio translation for Windows using yasbd-lib for incremental ASR sentence segmentation.
 * 🏠 **[wyoming_openai](https://github.com/roryeckel/wyoming_openai#overview):** OpenAI-compatible Wyoming proxy that uses yasbd for incremental TTS streaming via sentence boundary chunking.
 * 🇭🇹 **[kreyolib](https://github.com/AyitiDev/kreyolib#sentence-splitter-api):** A software library for Haitian Creole (Kreyòl Ayisyen) natural language processing, text normalization, and localization. Currently in alpha. Uses yasbd for sentence boundary detection as part of its NLP tooling.
+* 📑 **[prosediff](https://github.com/raffaelemancuso/prosediff):** Side-by-side prose diff for Word, OpenDocument, and Markdown that restores tracked changes, detects sentence offsets with yasbd, and uses AI to evaluate edits.
 
 ---
 
